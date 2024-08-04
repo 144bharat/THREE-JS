@@ -1,0 +1,118 @@
+@font-face {
+  font-family: loaderBack;
+  src: url(/assets/fonts/chaney-ultraextended-webfont.ttf);
+}
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+html, body{
+  width:100%;
+  height:100vh;
+}
+
+#main{
+  width:100%;
+  min-height: 100vh;
+}
+
+.loader{
+  position: absolute; /* iska mtlb yeh upar rahega*/
+  width: 100%;
+  height:100vh;
+  background-color: rgb(255, 183, 0);
+  animation: bgChange 3s;
+}
+
+.zoom{
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%) rotate(-7deg);
+  font-size: 13vw;
+  font-family: loaderBack;
+  font-weight: 200;
+  -webkit-text-stroke-width: 0.09vh;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-color: #fff;
+  outline: none;
+
+}
+
+.loader h1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%) rotate(-7deg);
+  font-size: 5vw;
+  font-family: loaderBack;
+  color: #fff;
+}
+
+.loading{
+  position: relative;
+  left:50%;
+  width:50%;
+  bottom:-70%;
+  height: 10px;
+  background-color: #fff;
+  transform: translate(-50%,-50%) rotate(-7deg);
+  border-radius: 5px;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.loading::after{
+  content: "";
+  position: absolute;
+  bottom: 10%;
+  height: 100%;
+  border-radius: 5px;
+  animation: load 3s;
+}
+
+@keyframes load{
+  0%{
+    width: 0;
+    background-color: cornflowerblue;
+  }
+  25%{
+    width: 25%;
+    background-color: rgb(204, 33, 230);
+  }
+  50%{
+    width: 50%;
+    background-color: rgb(150, 30, 84);
+  }
+  75%{
+    width: 75%;
+    background-color: rgb(11, 161, 111);
+  }
+  100%{
+    width: 100%;
+    background-color: rgb(255, 183, 0);
+  }
+  
+}
+
+
+@keyframes bgChange{
+  0%{
+    background-color: cornflowerblue;
+  }
+  25%{
+    background-color: rgb(204, 33, 230);
+  }
+  50%{
+    background-color: rgb(150, 30, 84);
+  }
+  75%{
+    background-color: rgb(11, 161, 111);
+  }
+  100%{
+    background-color: rgb(255, 183, 0);
+  }
+  
+}

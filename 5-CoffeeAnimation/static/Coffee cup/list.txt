@@ -1,0 +1,22 @@
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\3ds
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\dae
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\obj
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\rend
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\tex
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\.DS_Store
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\list.txt
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\dae\.DS_Store
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\dae\coffee cup.dae
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\obj\.DS_Store
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\obj\coffee cup.mtl
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\obj\coffee cup.obj
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\rend\.DS_Store
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\rend\1st rend.png
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\rend\2nd rend.png
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\rend\3rd rend.png
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\rend\3th rend.png
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\rend\4th rend.png
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\rend\6th rend.png
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\tex\.DS_Store
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\tex\cap roughness.jpeg
+C:\Users\225bh\Downloads\92-coffee-cup\Coffee cup\tex\coffee cup.jpg
